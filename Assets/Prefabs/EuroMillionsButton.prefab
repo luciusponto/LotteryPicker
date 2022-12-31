@@ -349,5 +349,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Data: {fileID: 11400000, guid: 07bb83735d881cb4db267b693c9d5b09, type: 2}
   Button: {fileID: 2988614711019461058}
+  BackgroundImage: {fileID: 2988614711019461061}
   TextMesh: {fileID: 2988614710070892024}
   IconImage: {fileID: 2191416212200854547}

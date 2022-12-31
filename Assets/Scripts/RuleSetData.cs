@@ -10,6 +10,7 @@ namespace DefaultNamespace
     {
         public string DisplayName;
         public Sprite Icon;
+        public Color BackgroundColor = Color.white;
         public NumberSet[] NumberSets;
         public bool LogChecks;
         

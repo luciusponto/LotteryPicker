@@ -9,6 +9,7 @@ namespace DefaultNamespace
     {
         public RuleSetData Data;
         public Button Button;
+        public Image BackgroundImage;
         public TextMeshProUGUI TextMesh;
         public Image IconImage;
 
@@ -19,6 +20,7 @@ namespace DefaultNamespace
 
         private void Start()
         {
+            BackgroundImage.color = Data.BackgroundColor;
             var hasIcon = Data.Icon != null;
             TextMesh.enabled = !hasIcon;
             IconImage.enabled = hasIcon;
