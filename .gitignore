@@ -1,0 +1,77 @@
+# .gitignore
+
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Bb]uild/
+/[Bb]uilds/
+/Assets/AssetStoreTools*
+/Assets/_ImportedAssets/SampleTerrainBrushes
+/Assets/_ImportedAssets/SampleTerrainBrushes.meta
+/Assets/Scenes/Cave Mixed Lighting Test*
+/Assets/Scenes/ProbeBakeTest*
+/UserSettings/
+sysinfo.txt
+*.pidb.meta
+ 
+# VS/Rider/MD/Consulo
+ExportedObj/
+.consulo/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.blend1*
+*.kra~*
+*.kra-autosave*
+*.png~*
+ 
+# Builds
+*.apk
+*.unitypackage
+*.app
+*.exe
+**_Data/
+.vs/
+Assets/_ImportedAssets/LeanTouch/Examples.meta
+Assets/_ImportedAssets/LeanTouch/Examples/
+Assets/_ImportedAssets/LeanTouch/Documentation.meta
+Assets/_ImportedAssets/LeanTouch/Documentation/
+Assets/Plugins/Editor/JetBrains/Unity3DRider.cs
+Assets/Scenes/Clouds Test/ReflectionProbe-5.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-5.exr
+Assets/Scenes/Clouds Test/ReflectionProbe-4.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-4.exr
+Assets/Scenes/Clouds Test/ReflectionProbe-3.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-3.exr
+Assets/Scenes/Clouds Test/ReflectionProbe-2.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-2.exr
+Assets/Scenes/Clouds Test/ReflectionProbe-1.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-1.exr
+Assets/Scenes/Clouds Test/ReflectionProbe-0.exr.meta
+Assets/Scenes/Clouds Test/ReflectionProbe-0.exr
+Assets/Scenes/Clouds Test/LightingData.asset.meta
+Assets/Scenes/Clouds Test/LightingData.asset
+Assets/Scenes/Clouds Test.unity.meta
+Assets/Scenes/Clouds Test.unity
+Assets/Scenes/Clouds Test.meta
+Assets/_ImportedAssets/Assembly/Psychose Interactive/NGSS/Media/
+Assets/_ImportedAssets/Assembly/Psychose Interactive/NGSS/Documentation_v2.pdf*
+Assets/_ImportedAssets/Assembly/Psychose Interactive/NGSS/Media.meta
+Assets/_ImportedAssets/Rewired/Examples*
+Assets/_ImportedAssets/Rewired/Internal/Assets/Extras*
+Assets/_ImportedAssets/Rewired/Internal/Assets/Lib*
+Assets/_ImportedAssets/Rewired/Internal/Assets/Documentation.zip*
+Assets/_ImportedAssets/Rewired/Internal/Scripts/Platforms/Ouya*
+
+RewiredBackup/InputManager.asset.backup
+Assets/_ImportedAssets/Assembly/Psychose Interactive/NGSS/Documentation*
